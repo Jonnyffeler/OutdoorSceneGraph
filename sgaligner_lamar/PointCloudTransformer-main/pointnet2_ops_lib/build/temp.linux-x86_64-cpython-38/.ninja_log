@@ -1,0 +1,6 @@
+# ninja log v5
+1	13090	1738168765550000000	/media/T7/sgaligner/PointCloudTransformer-main/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points.o	ffb672b724bde809
+0	13187	1738168765650000000	/media/T7/sgaligner/PointCloudTransformer-main/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query.o	b1fcaaab24446e0d
+1	13275	1738168765730000000	/media/T7/sgaligner/PointCloudTransformer-main/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/bindings.o	2c4e6a76de1b5393
+2	13346	1738168765810000000	/media/T7/sgaligner/PointCloudTransformer-main/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate.o	509c8ac52e237563
+2	13405	1738168765860000000	/media/T7/sgaligner/PointCloudTransformer-main/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling.o	8ac7a086cc0cfbe8

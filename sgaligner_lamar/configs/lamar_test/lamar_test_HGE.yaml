@@ -1,0 +1,40 @@
+seed: 42
+num_workers : 0
+
+model_name    : 'sgaligner'
+modules       : ['point', 'gat', 'rel', 'attr', 'hgn']
+hyperedge_types : ['full'] #'neighbors','full', 'clustering'
+use_predicted : False
+registration  : False
+scan_type     : 'subscan'
+
+data :
+  name            : Lamar
+  root_dir        : /media/T7/Lamar_scenegraphs
+  scene_name      : HGE
+  only_roots      : True
+  label_file_name : labels.instances.align.annotated.v2.ply
+  pred_subfix     : inseg.ply
+
+preprocess :
+  pc_resolutions      : [64, 128, 256, 512]
+  subscenes_per_scene : 7
+  filter_segment_size : 512
+  min_obj_points      : 50
+  anchor_type_name    : '' 
+
+model :
+  rel_dim             : 2
+  attr_dim            : 2239
+  alignment_thresh    : 0.4
+
+train :
+  batch_size          : 2
+
+val :
+  batch_size          : 1
+  overlap_low         : 0.0
+  overlap_high        : 0.0
+
+val :
+  pc_res : 1024

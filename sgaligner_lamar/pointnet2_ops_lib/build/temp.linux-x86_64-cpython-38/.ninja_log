@@ -1,0 +1,19 @@
+# ninja log v5
+1	12884	1738168991540000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/bindings.o	c88c7df20bdbec4d
+1	12911	1738168991580000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points.o	855c560dc661f273
+2	12970	1738168991640000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling.o	8aec0696ea79301a
+0	13278	1738168991940000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query.o	df18bbd2bb62f767
+2	13316	1738168991980000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate.o	7cd310a7bdbeff07
+10	36763	1738169649760000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query_gpu.o	2ad96b88351a0181
+10	37102	1738169650100000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points_gpu.o	92eb1db11f540935
+10	37810	1738169650810000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate_gpu.o	59bda8ca92ba377d
+10	39175	1738169652180000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling_gpu.o	4ef5862617855e71
+11	15393	1738252161820000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/bindings.o	c5a9abde02ba7b21
+11	15581	1738252162010000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query.o	5b74eeeaa43e131c
+12	15793	1738252162230000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling.o	7fe71792c99e9ac1
+12	16147	1738252162580000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points.o	d185b0e34264aa1d
+12	16841	1738252163280000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate.o	d2b46b57877bdf06
+12	40537	1738252186970000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate_gpu.o	993bc27ae204d8b9
+12	40785	1738252187220000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points_gpu.o	676717cf632355fb
+11	40948	1738252187380000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query_gpu.o	a8b7d81c705d6cb9
+13	42033	1738252188470000000	/media/T7/sgaligner/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling_gpu.o	5f9b570aadeccebf

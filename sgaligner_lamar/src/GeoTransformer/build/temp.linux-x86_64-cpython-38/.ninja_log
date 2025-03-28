@@ -1,0 +1,25 @@
+# ninja log v5
+1	369	1738168387680000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/extra/cloud/cloud.o	45d02da4337c321c
+1	702	1738168388020000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/grid_subsampling/grid_subsampling_cpu.o	4f8ea2c57e2de7ab
+1	1148	1738168388460000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/radius_neighbors/radius_neighbors_cpu.o	bf81df28ab73e9d4
+1	11876	1738168399180000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/pybind.o	57e85b08687db95d
+1	11970	1738168399270000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/radius_neighbors/radius_neighbors.o	4c1201b4ad1cae
+0	12152	1738168399460000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/grid_subsampling/grid_subsampling.o	25db68160719fdf0
+9	380	1738168400310000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/extra/cloud/cloud.o	48ab4baf7509dce1
+9	739	1738168400670000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/grid_subsampling/grid_subsampling_cpu.o	c83d87205b556e9
+9	1210	1738168401140000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/radius_neighbors/radius_neighbors_cpu.o	8d07c372eff0ac3f
+10	11689	1738168411610000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/pybind.o	f822aaf1f10da8cd
+9	12029	1738168411950000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/grid_subsampling/grid_subsampling.o	8b869c750db6f2e6
+9	12293	1738168412210000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/radius_neighbors/radius_neighbors.o	c575a3a257a9b8ab
+21	514	1739288803600000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/extra/cloud/cloud.o	905f6d9ea6414e6f
+21	753	1739288803840000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/grid_subsampling/grid_subsampling_cpu.o	3c77e2626824489f
+21	1156	1739288804240000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/radius_neighbors/radius_neighbors_cpu.o	db65723bf0fcacde
+21	12475	1739288815550000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/pybind.o	cc1cb16f018f7e13
+20	13527	1739288816600000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/grid_subsampling/grid_subsampling.o	9f521ca7ff2dca0
+21	13684	1739288816760000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/radius_neighbors/radius_neighbors.o	c8eaa7a9978b20c0
+13	366	1739288817680000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/extra/cloud/cloud.o	14972395258d5b76
+12	680	1739288818000000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/grid_subsampling/grid_subsampling_cpu.o	d48ddd0f808c2236
+12	1059	1739288818370000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/radius_neighbors/radius_neighbors_cpu.o	80408df408ee26e2
+13	11735	1739288829040000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/pybind.o	93516fcacd5b60a
+12	12774	1739288830080000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/grid_subsampling/grid_subsampling.o	80fedb49c7ff2695
+12	12969	1739288830270000000	/media/T7/sgaligner/src/GeoTransformer/build/temp.linux-x86_64-cpython-38/geotransformer/extensions/cpu/radius_neighbors/radius_neighbors.o	fcf7c72a8cd3c9da
