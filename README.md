@@ -72,7 +72,7 @@ bash build_scenegraph.sh
 ## Preprocessing for SGAligner :hammer:
 To train and run SGAligner on the generated outdoor scenes, first run the preprocessing to generate the subscenes used for training.
 
-Change the ``PROJECT_PATH `` in ``create_all_subscenes.sh`` and select the scene (to train or test on) by channging ``SCENE`` (and ```SCENES`` if you didn't construct all three scenes). Then run: 
+Change the ``PROJECT_PATH `` in ``create_all_subscenes.sh`` and select the scene (to train or test on) by channging ``SCENE`` (and ``SCENES`` if you didn't construct all three scenes). Then run: 
 
 ```bash
 bash create_all_subscenes.sh
